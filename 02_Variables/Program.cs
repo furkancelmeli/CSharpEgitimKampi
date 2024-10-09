@@ -144,7 +144,7 @@ namespace _02_Variables
 
             //Console.Write("Lütfen 2. Sınav notunu giriniz: ");
             //exam2 = double.Parse(Console.ReadLine());
-
+            
             //Console.Write("Lütfen 3. Sınav notunu giriniz: ");
             //exam3 = double.Parse(Console.ReadLine());
 
